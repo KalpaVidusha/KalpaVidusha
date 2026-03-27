@@ -1,13 +1,13 @@
 <div align="center">
 
-```
+<pre>
 ██╗   ██╗██╗██████╗ ██╗   ██╗███████╗██╗  ██╗ █████╗
 ██║   ██║██║██╔══██╗██║   ██║██╔════╝██║  ██║██╔══██╗
 ██║   ██║██║██║  ██║██║   ██║███████╗███████║███████║
 ╚██╗ ██╔╝██║██║  ██║██║   ██║╚════██║██╔══██║██╔══██║
  ╚████╔╝ ██║██████╔╝╚██████╔╝███████║██║  ██║██║  ██║
   ╚═══╝  ╚═╝╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+</pre>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Kalpa+Vidusha+%F0%9F%91%8B;IT+Undergraduate+%40+SLIIT+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Always+building%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -23,7 +23,6 @@
 ---
 
 ## 👨‍💻 About Me
-
 ```yaml
 name: Kalpa Vidusha
 location: Sri Lanka 🇱🇰
@@ -97,22 +96,36 @@ currently_learning: [AI/ML, Deep Learning]
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KalpaVidusha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="Kalpa's GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=KalpaVidusha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" alt="Kalpa's GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=KalpaVidusha&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 
-<br/>
+<br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalpaVidusha&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages"/>
+<img width="40%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KalpaVidusha&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=KalpaVidusha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KalpaVidusha&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KalpaVidusha/KalpaVidusha/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KalpaVidusha/KalpaVidusha/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/KalpaVidusha/KalpaVidusha/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
